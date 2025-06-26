@@ -1,3 +1,4 @@
 {
-  "volar.inlayHints.eventArgumentInInlineHandlers": true
+  "volar.inlayHints.eventArgumentInInlineHandlers": true,
+  "editor.fontFamily": "JetBrains Mono,Consolas, 'Courier New', monospace"
 }
